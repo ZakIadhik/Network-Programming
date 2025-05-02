@@ -1,0 +1,14 @@
+D:\RiderProject\TicTacToeClient\Client\bin\Debug\net9.0\Client.exe
+D:\RiderProject\TicTacToeClient\Client\bin\Debug\net9.0\Client.deps.json
+D:\RiderProject\TicTacToeClient\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+D:\RiderProject\TicTacToeClient\Client\bin\Debug\net9.0\Client.dll
+D:\RiderProject\TicTacToeClient\Client\bin\Debug\net9.0\Client.pdb
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.dll
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\refint\Client.dll
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.pdb
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+D:\RiderProject\TicTacToeClient\Client\obj\Debug\net9.0\ref\Client.dll
